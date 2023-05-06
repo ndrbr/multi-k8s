@@ -32,7 +32,7 @@ spec:
                 name: server-cluster-ip-service
                 port:
                   number: 5000
-    - host: wwww.goretex.site
+    - host: www.goretex.site
       http:
         paths:
           - path: /?(.*)
